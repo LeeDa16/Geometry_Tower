@@ -17,3 +17,7 @@
     - resources和texture路径下包含游戏所需的图片资源
     - scripts路径下包含游戏的主要代码
 - Open_Data_Project目录下为子域项目工程，主要用于获取微信用户信息，制作排行榜；主要代码保存在/assets/scripts/目录下
+
+## 体验版二维码
+
+![1532881727561](C:\Users\Leeda李\AppData\Local\Temp\1532881727561.png)
