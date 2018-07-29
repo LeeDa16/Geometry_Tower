@@ -20,4 +20,4 @@
 
 ## 体验版二维码
 
-![1532881727561](C:\Users\Leeda李\AppData\Local\Temp\1532881727561.png)
+![1532881727561](https://github.com/LeeDa16/Geometry_Tower/blob/master/%E4%BD%93%E9%AA%8C%E7%89%88%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
