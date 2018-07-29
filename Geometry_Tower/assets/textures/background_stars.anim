@@ -1,0 +1,156 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "background_stars",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "star1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                3333.6,
+                10206.4
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -576,
+                3676
+              ]
+            }
+          ]
+        }
+      },
+      "star3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5940,
+                10560
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -576,
+                -324
+              ]
+            }
+          ]
+        }
+      },
+      "star2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                4636.8,
+                10383.2
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -576,
+                1676
+              ]
+            }
+          ]
+        }
+      },
+      "star4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5940,
+                8560
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                510,
+                -510
+              ]
+            }
+          ]
+        }
+      },
+      "star5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5940,
+                6560
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                1596,
+                -696
+              ]
+            }
+          ]
+        }
+      },
+      "star6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5940,
+                4560
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                2899.2,
+                -519.2
+              ]
+            }
+          ]
+        }
+      },
+      "star0": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                2247.6,
+                10392.4
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -576,
+                5676
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}
